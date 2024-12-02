@@ -1,6 +1,6 @@
 # SKYGO - Drone Logistics Website
 
-This website is a resource dedicated to providing information about drone logistics. It aims to educate users about the current state of the industry, explore its potential applications, and highlight the challenges and opportunities it presents.
+This website is a resource dedicated to providing information about drone logistics. It aims to educate users about the current state of the industry, explore its potential applications, and highlight the challenges and opportunities it presents. [VISIT SITE!](https://qyuzet.github.io/html-css-skygo/)
 
 ## Features
 
@@ -15,7 +15,7 @@ This website is a resource dedicated to providing information about drone logist
 
 ## Getting Started
 
-* Visit the website: [https://sandbox.reefarm.online/]
+* Visit the website: [VISIT SITE!](https://qyuzet.github.io/html-css-skygo/)
 
 ## Contributing
 
